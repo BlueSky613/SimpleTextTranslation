@@ -43,7 +43,7 @@ fun InputSection(
                 if (inputText.isNotBlank()) {
                     IconButton(
                         onClick = onClearClick,
-                        modifier = Modifier.size(24.dp)
+                        modifier = Modifier.size(26.dp)
                     ) {
                         Icon(
                             imageVector = Icons.Default.Clear,
